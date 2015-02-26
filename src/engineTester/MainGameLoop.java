@@ -57,9 +57,7 @@ public class MainGameLoop {
 		
 		TerrainTexturePack texturePack = new TerrainTexturePack(backgroundTexture, rTexture, gTexture, bTexture);
 		
-		
-		
-		
+		System.out.println("hej");
 		Terrain terrain = new Terrain(0, -1, loader,texturePack,blendMap);
 		Terrain terrain2 = new Terrain(0, -2, loader,texturePack,blendMap);
 
