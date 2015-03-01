@@ -1,4 +1,6 @@
-/terrains/
+/textures/
+/renderEngine/
+/guis/
+/skybox/
 /engineTester/
-/toolbox/
-/entities/
+/shaders/

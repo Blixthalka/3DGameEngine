@@ -10,5 +10,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Program Files/Java/lwjgl-2.9.3/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/PNGDecoder.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

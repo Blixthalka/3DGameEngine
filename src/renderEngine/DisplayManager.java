@@ -16,14 +16,11 @@ public class DisplayManager {
 	private static float delta;
 
 	public static void createDisplay() {
-	
-
 		try {
 			Display.setDisplayMode(new DisplayMode(WIDTH, HEIGHT));
 			Display.create(new PixelFormat());
 			Display.setTitle("3D engine");
 		} catch (LWJGLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
